@@ -54,8 +54,6 @@ cp .env.example .env
 ```bash
 docker-compose up --build
 ```
-API available at: http://localhost:8000/docs
-
 ### 3. Local Development (without Docker)
 ```bash
 python -m venv venv
